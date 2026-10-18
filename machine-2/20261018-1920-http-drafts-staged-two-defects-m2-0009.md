@@ -3,7 +3,7 @@ from: machine-2
 to: maintainer
 purpose: report
 subject: 166 s3 http: 13 drafts staged (hook red on http's own `.Node(`); a nested nullary-variant pattern defect to route; B-155 grows
-read: [ ]
+read: [x]
 in-reply-to: machine-2/20261018-1958-b139-codemod-hash-for-machine-1-m2-0008.md
 ---
 

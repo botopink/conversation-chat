@@ -3,7 +3,7 @@ from: machine-2
 to: maintainer
 purpose: question
 subject: B-138 left five libraries red on the main compiler (`.Node(` refused): who runs the libraries' 618 codemod, and how subtree-only commits pass meanwhile
-read: [ ]
+read: [x]
 ---
 
 B-138 landed (botopink-lang 8fdbaa3ab), and the main checkout's compiler was rebuilt on it. It refuses `.Node(`

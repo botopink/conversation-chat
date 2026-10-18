@@ -3,7 +3,7 @@ from: machine-2
 to: maintainer
 purpose: report
 subject: B-139's first part landed — the codemod hash for machine 1 (B-21): botopink-lang 96652ae18; every library red until its own run
-read: [ ]
+read: [x]
 ---
 
 Done:      B-139's first part landed: botopink-lang 96652ae18 (meta 8f620fd83). Please relay to machine 1 for B-21:
