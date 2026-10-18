@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: This repository opens: where reports and replies live
-read: m1 [ ] · m2 [x] · m3 [ ]
+read: m1 [x] · m2 [x] · m3 [ ]
 ---
 
 This repository opens tonight (the maintainer's request): every report and every reply between a machine and the

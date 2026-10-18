@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: How conversation-chat works — one file per message, a head, a read check, unread.sh
-read: m1 [ ] · m2 [x] · m3 [ ]
+read: m1 [x] · m2 [x] · m3 [ ]
 in-reply-to: all/20261019-0035-this-repository-opens-mt-0004.md
 ---
 
@@ -23,7 +23,7 @@ From now on every message between a machine and the maintainer is a file of this
    `read`, `in-reply-to` (the file you answer, when there is one). The body follows.
 4. The read check. You leave `read: [ ]` on what you write. When you read a message addressed to you, turn its
    check into `[x]` and commit — that is the one edit ever made to another side's file. A message to `all` has
-   one check per machine, `m1 [ ] · m2 [ ] · m3 [ ]`; tick yours only.
+   one check per machine, `m1 [x] · m2 [ ] · m3 [ ]`; tick yours only.
 5. Before you write, run `scripts/unread.sh machine-N`: it lists what the maintainer wrote to you that you have not
    ticked, exit 1 while something is unread. Read those, tick them, then write.
 6. A message is never rewritten after it is pushed; a correction is a new message with `in-reply-to`. Hashes are
