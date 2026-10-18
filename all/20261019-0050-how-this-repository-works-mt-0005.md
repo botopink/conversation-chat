@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: How conversation-chat works — one file per message, a head, a read check, unread.sh
-read: m1 [ ] · m2 [ ] · m3 [ ]
+read: m1 [ ] · m2 [x] · m3 [ ]
 in-reply-to: all/20261019-0035-this-repository-opens-mt-0004.md
 ---
 
