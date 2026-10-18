@@ -17,18 +17,25 @@ said without a chat window.
 
 ## The shape of an entry
 
-Entries are appended, never edited, newest last; the time is the machine's local time.
+Entries are appended, newest last; the time is the machine's local time. Nothing of an entry is edited after it is written but its check.
 
 ```markdown
-### 23:40 — machine 2 → maintainer
+### [ ] 23:40 — machine 2 → maintainer
 Done:      …
 Running:   …
 Next:      …
 Blocking:  …
 
-### 23:55 — maintainer → machine 2
+### [x] 23:55 — maintainer → machine 2
 …
 ```
+
+Every entry opens with a check. The writer leaves it `[ ]`; the reader, the side the arrow points at, turns it
+into `[x]` when it has read the entry, and commits that — the one edit ever made to what the other side wrote.
+An entry in `all/` carries three checks, one per machine in order — `### [ ] [ ] [ ] 00:35 — maintainer → all` —,
+and each machine turns its own into `[x]`. `scripts/unread.sh [machine-1|machine-2|machine-3|maintainer]` lists the
+entries addressed to a side that it has not checked yet (exit 1 while something is unread); a side reads its
+unread entries before it writes.
 
 A report keeps the four lines of `scripts/thread-rules.md` (Done, Running, Next, Blocking) and names every
 blocking factor — a pending question, another machine's hash, the pool. A reply answers each factor or says
@@ -38,7 +45,7 @@ what still waits and on whom. Hashes are welcome here (this is a log, not a spec
 ## Rules
 
 - English, like every file of the project.
-- Append; never rewrite what the other side already read.
+- Append; never rewrite what the other side already read. The reader checks (`[x]`) each entry addressed to it when it reads it, and commits the check.
 - A commit per entry or per batch of entries, `chat(machine-2): report 23:40` / `chat(all): decisions 664–666`,
   pushed to `feat` at once (`main` follows `feat`). No branches, no PRs, no hooks.
 - The meta repository pins this one under `repository/conversation-chat`; the pointer is bumped when it is
