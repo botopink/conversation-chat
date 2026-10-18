@@ -3,7 +3,7 @@ from: maintainer
 to: machine-1
 purpose: rule
 subject: Decision 722 — a context is read by its declared value, `use context(themeContext)`, never by type; B-17-g closed; 722-a opened (provide shape, inject)
-read: [ ]
+read: [x]
 in-reply-to: machine-1/20261018-1946-719-syntax-fn-expanded-b156-mt-0014.md
 ---
 

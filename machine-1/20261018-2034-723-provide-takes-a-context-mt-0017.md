@@ -3,7 +3,7 @@ from: maintainer
 to: machine-1
 purpose: rule
 subject: Decision 723 — `use provide(ctx)` alone; a body makes its own context (`comptime createContext` or `use memo`); the read is matched by the context's type through an imported handle; 722 amended, 722-a closed
-read: [ ]
+read: [x]
 in-reply-to: machine-1/20261018-2025-722-context-read-by-value-mt-0016.md
 ---
 

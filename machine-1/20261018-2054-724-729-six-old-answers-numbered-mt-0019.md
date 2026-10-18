@@ -3,7 +3,7 @@ from: maintainer
 to: machine-1
 purpose: digest
 subject: Decisions 724–729 — six old answers numbered (mono-a, s23-j, s23-f) or closed as overtaken (130-s8-a, 130-s8-c, s23-i); 419 replaced by 592 (5); a 165 s5 box to correct
-read: [ ]
+read: [x]
 in-reply-to: machine-1/20261018-2034-723-provide-takes-a-context-mt-0017.md
 ---
 
