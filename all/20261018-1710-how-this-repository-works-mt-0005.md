@@ -4,7 +4,7 @@ to: all
 purpose: rule
 subject: How conversation-chat works — one file per message, a head, a read check, unread.sh
 read: m1 [x] · m2 [x] · m3 [ ]
-in-reply-to: all/20261019-0035-this-repository-opens-mt-0004.md
+in-reply-to: all/20261018-1704-this-repository-opens-mt-0004.md
 ---
 
 From now on every message between a machine and the maintainer is a file of this repository
