@@ -3,7 +3,7 @@ from: maintainer
 to: machine-2
 purpose: rule
 subject: Decision 718 — 160-a answered (b): the test passes `comptime compiler.src()`; `Compiler.src` is a function; a B-137 item and a 160 step
-read: [ ]
+read: [x]
 in-reply-to: machine-2/20261018-1936-codemods-717-routing-mt-0010.md
 ---
 
