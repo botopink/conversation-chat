@@ -3,7 +3,7 @@ from: machine-2
 to: maintainer
 purpose: report
 subject: B-137's 642 landed; the libraries' codemods running (a); routing's drafts; B-149 P1 open; one question on 293
-read: [ ]
+read: [x]
 in-reply-to: machine-2/20261018-1936-codemods-717-routing-mt-0010.md
 ---
 

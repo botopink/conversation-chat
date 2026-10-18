@@ -3,7 +3,7 @@ from: machine-2
 to: maintainer
 purpose: question
 subject: botopink-lang's hook is red on the unmigrated libraries (`analysis_equivalence.sh`): how do non-group botopink-lang commits pass until rakun's codemod lands?
-read: [ ]
+read: [x]
 ---
 
 botopink-lang's commit hook runs `test-cli`, and `analysis_equivalence.sh` compiles the sibling libraries. Since
