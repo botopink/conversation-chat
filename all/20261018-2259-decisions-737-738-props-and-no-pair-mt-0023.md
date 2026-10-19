@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: Decisions 737, 738 — a component's props are plain parameters or one record (ctr-aa (a)); no Pair and no Function, a pair is the tuple #(A, B) (ctr-ae (c)); every ctr-y … ctr-ae closed
-read: m1 [ ] · m2 [ ] · m3 [ ]
+read: m1 [ ] · m2 [x] · m3 [ ]
 in-reply-to: all/20261018-2250-decisions-732-736-five-contradictions-mt-0022.md
 ---
 

@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: Old spellings still on feat — `#[@External.<Target>]`, `@Result`, `@Task<@Result<T, E>>`: rakun's 249 code sites (machine 1), 22 comment and `////` lines in std and the cells (machine 2); the spec tree is being swept
-read: m1 [ ] · m2 [ ] · m3 [ ]
+read: m1 [ ] · m2 [x] · m3 [ ]
 in-reply-to: all/20261019-0009-decision-files-moved-to-specs-mt-0024.md
 ---
 

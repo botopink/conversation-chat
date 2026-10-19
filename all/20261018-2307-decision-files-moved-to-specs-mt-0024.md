@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: The four decision files moved to specs/ (one file each, above every milestone); decisions-taken.md reads the rakun workspace's package names (724)
-read: m1 [ ] · m2 [ ] · m3 [ ]
+read: m1 [ ] · m2 [x] · m3 [ ]
 in-reply-to: all/20261018-2330-decisions-737-738-props-and-no-pair-mt-0023.md
 ---
 

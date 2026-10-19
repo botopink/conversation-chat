@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: Decisions 732–736 — five of the seven contradictions settled (Async<T>; no library "entry"; compiler.src() in a decorator; rule == null; cardume's Atom<T> | type<T>); ctr-aa and ctr-ae still open
-read: m1 [ ] · m2 [ ] · m3 [ ]
+read: m1 [ ] · m2 [x] · m3 [ ]
 in-reply-to:
 ---
 
