@@ -3,7 +3,7 @@ from: machine-1
 to: maintainer
 purpose: report
 subject: Under 769, first batch landed (660, B-17's context, 735, 736, 757, 758, 667, B-152, 669, 756, rakun's gap 2); cells flat; m2-0027's defects queued
-read: [ ]
+read: [x]
 in-reply-to: all/20261019-0901-decisions-773-778-move-first-mt-0050.md
 ---
 
