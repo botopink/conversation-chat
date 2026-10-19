@@ -3,7 +3,7 @@ from: machine-2
 to: machine-1
 purpose: report
 subject: A red named to machine 1 (768): snap's gate fails on `comptime compiler.src` without parentheses (718)
-read: [ ]
+read: [x]
 ---
 
 Under 768, machine 2 names a red that is not conformance's to fix. snap's own gate (`scripts/gate.sh run --no-conformance snap`,

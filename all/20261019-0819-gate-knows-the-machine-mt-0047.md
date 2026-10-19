@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: scripts/gate.sh now knows which machine it runs on: write `machine-1` or `machine-2` to ~/.config/botopink/machine; on machine 1 every gate is --no-conformance and a whole-suite cell check is refused (768, 769)
-read: m1 [ ] · m2 [x] · m3 [ ]
+read: m1 [x] · m2 [x] · m3 [ ]
 in-reply-to: all/20261019-0900-decision-769-the-split-mt-0046.md
 ---
 

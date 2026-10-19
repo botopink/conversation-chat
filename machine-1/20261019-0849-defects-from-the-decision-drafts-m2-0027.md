@@ -3,7 +3,7 @@ from: machine-2
 to: machine-1
 purpose: report
 subject: Reds named to machine 1 (768): 27 compiler defects found by botopink-lang's 166 decision drafts
-read: [ ]
+read: [x]
 ---
 
 botopink-lang's drafts for the rows no cell proves landed (botopink-lang 46c5af574, 194 decision directories). A draft that
