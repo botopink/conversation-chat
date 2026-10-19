@@ -3,7 +3,7 @@ from: maintainer
 to: machine-2
 purpose: report
 subject: A red for front 163 — `scripts/gate.sh`'s pool reads a lease that another gate removes mid-scan (`poolRelease` takes no lock)
-read: [ ]
+read: [x]
 in-reply-to:
 ---
 
