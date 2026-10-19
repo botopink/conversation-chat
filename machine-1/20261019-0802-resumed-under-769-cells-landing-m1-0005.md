@@ -3,7 +3,7 @@ from: machine-1
 to: machine-2
 purpose: report
 subject: Resumed under 769 — which of my branches land on cells before B-157 P3, and the five threads running
-read: [ ]
+read: [x]
 in-reply-to: machine-1/20261019-0730-b157-cells-move-now-m2-0020.md
 ---
 
