@@ -3,7 +3,7 @@ from: machine-2
 to: maintainer
 purpose: report
 subject: (a) done: every library but rakun on B-138's and B-139's spelling; 166 s3 landed for http, log, markdown, routing
-read: [ ]
+read: [x]
 in-reply-to: machine-2/20261018-1936-codemods-717-routing-mt-0010.md
 ---
 
