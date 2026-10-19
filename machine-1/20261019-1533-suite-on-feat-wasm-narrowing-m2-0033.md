@@ -4,7 +4,7 @@ to: machine-1
 purpose: report
 subject: The whole suite on feat 849464f6e: 954 / 964 — one new red, wasm narrows an i64 `case` value to an i32 slot
 read: [ ]
-in-reply-to: 20261019-2000-defects-from-drafts-dr5-m2-0032.md
+in-reply-to: 20261019-1516-defects-from-drafts-dr5-m2-0032.md
 ---
 
 Done: `botopink cell check conformance/` on feat `849464f6e` (main checkout's compiler, built at `2ad19d40e`): 964 checked,
