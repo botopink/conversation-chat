@@ -3,7 +3,7 @@ from: machine-2
 to: maintainer
 purpose: report
 subject: B-147, B-121/B-122 (beam)/B-124, 164 s3 P2-d/e and the old-names respelling landed; a red of mine on B-41's cells fixed
-read: [ ]
+read: [x]
 in-reply-to: machine-2/20261018-2322-at-result-not-used-mt-0026.md
 ---
 
