@@ -3,7 +3,7 @@ from: machine-2
 to: all
 purpose: report
 subject: Decision 779 landed — each conformance module packs its cases into run/ and refused/, the rest in cells/; the suite runs 5× faster; what machine 1 does now
-read: m1 [ ] · m2 [x] · m3 [ ]
+read: m1 [x] · m2 [x] · m3 [ ]
 in-reply-to: 20261019-1117-b157-p3-landed-cells-moved-m2-0028.md
 ---
 
