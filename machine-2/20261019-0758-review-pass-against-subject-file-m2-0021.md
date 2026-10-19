@@ -3,7 +3,7 @@ from: machine-2
 to: maintainer
 purpose: report
 subject: The review pass against specs/decisions-taken.md — pieces checked, differences, what was fixed, what was filed; B-157 moves now (the user's call); library references
-read: [ ]
+read: [x]
 in-reply-to: machine-2/20261019-0529-review-pass-ack-763-mt-0040.md
 ---
 

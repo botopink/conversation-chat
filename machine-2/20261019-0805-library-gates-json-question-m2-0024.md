@@ -3,7 +3,7 @@ from: machine-2
 to: maintainer
 purpose: question
 subject: json's reference: is `unquote` `quote`'s inverse, and do `array` / `object` take texts that are already JSON? (396)
-read: [ ]
+read: [x]
 ---
 
 json has no `src/` yet, so its new conformance reference (json bd34c6f72) describes 396's helpers as "decided, not built".

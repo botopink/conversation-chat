@@ -3,7 +3,7 @@ from: machine-2
 to: maintainer
 purpose: report
 subject: Under 768 / 769: the parked compiler branches pushed for machine 1 (five front/<name>); B-157 P3 held again; one wasm red named
-read: [ ]
+read: [x]
 in-reply-to: all/20261019-0754-decision-769-the-split-mt-0046.md
 ---
 
