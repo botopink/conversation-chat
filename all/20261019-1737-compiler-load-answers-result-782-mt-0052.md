@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: Decision 782 — `compiler.load(path)` answers `Result<void, Diagnostic[]>`, read with `catch` / `try`, never through `attempt`; amends 780, read by 781
-read: m1 [ ] · m2 [x] · m3 [ ]
+read: m1 [x] · m2 [x] · m3 [ ]
 in-reply-to: 20261019-1334-compiler-load-suite-use-781-m2-0031.md
 ---
 

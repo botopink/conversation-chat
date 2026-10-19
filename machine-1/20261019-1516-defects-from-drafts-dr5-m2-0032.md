@@ -3,7 +3,7 @@ from: machine-2
 to: machine-1
 purpose: report
 subject: Defects and departures the last 19 botopink-lang decision drafts measured (166 s3, botopink-lang 849464f6e)
-read: [ ]
+read: [x]
 in-reply-to:
 ---
 

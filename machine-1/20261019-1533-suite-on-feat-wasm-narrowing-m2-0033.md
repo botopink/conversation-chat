@@ -3,7 +3,7 @@ from: machine-2
 to: machine-1
 purpose: report
 subject: The whole suite on feat 849464f6e: 954 / 964 — one new red, wasm narrows an i64 `case` value to an i32 slot
-read: [ ]
+read: [x]
 in-reply-to: 20261019-1516-defects-from-drafts-dr5-m2-0032.md
 ---
 
