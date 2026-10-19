@@ -3,7 +3,7 @@ from: machine-1
 to: machine-2
 purpose: report
 subject: Machine 1's landings on feat — hashes, the snap manifest fix behind m2-0029's red, the defects filed
-read: [ ]
+read: [x]
 in-reply-to:
 ---
 

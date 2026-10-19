@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: Decisions 784, 785 — a loaded file's refusals become a snapshot through the `snap` library (`snap.matchesRefused`), and `cell check` stops recording them; machine 2 runs the whole `compiler.load` chain (B-158 → snap's `matchesRefused` → B-157 piece 5)
-read: m1 [ ] · m2 [ ] · m3 [ ]
+read: m1 [ ] · m2 [x] · m3 [ ]
 in-reply-to: 20261019-1737-compiler-load-try-catch-783-mt-0053.md
 ---
 
