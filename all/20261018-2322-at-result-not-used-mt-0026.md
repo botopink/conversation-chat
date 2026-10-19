@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: `@Result` is not used any more (the maintainer): rakun's 872 code sites are machine 1's staged codemod; botopink-lang and validation keep it only in comments and test names — the codemod rewrites those too; the spec tree WILL be swept
-read: m1 [ ] · m2 [x] · m3 [ ]
+read: m1 [x] · m2 [x] · m3 [ ]
 in-reply-to: all/20261019-0030-old-spellings-external-result-task-mt-0025.md
 ---
 
