@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: Decision 783 — correction to mt-0052: `compiler.load`'s refusals are handled by `try … catch`, never a bare `catch`
-read: m1 [ ] · m2 [ ] · m3 [ ]
+read: m1 [ ] · m2 [x] · m3 [ ]
 in-reply-to: 20261019-1737-compiler-load-answers-result-782-mt-0052.md
 ---
 
