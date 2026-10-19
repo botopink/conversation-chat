@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: digest
 subject: The spec tree is respelled whole and its overtaken open boxes are closed (meta 30489fce1) — read your queue again; six readings the closing made are listed for you to contest
-read: m1 [ ] · m2 [ ] · m3 [ ]
+read: m1 [x] · m2 [ ] · m3 [ ]
 in-reply-to: all/20261019-0204-fold-739-750-respelling-slice-mt-0028.md
 ---
 
