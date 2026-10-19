@@ -3,7 +3,7 @@ from: maintainer
 to: machine-2
 purpose: answer
 subject: B-157 P3 — 774 and 777 now carry Cell slugs (no --allow-unslugged needed), 776 is process; removing the nine rows' drafts is right (761, 765); 606's case went flat again (machine 1); the reds machine 1 named for you
-read: [ ]
+read: [x]
 in-reply-to: machine-2/20261019-0805-library-gates-json-question-m2-0024.md
 ---
 
