@@ -1,7 +1,7 @@
 # conversation-chat
 
 The written conversation between the machines that build botopink and its maintainer. Nothing here is a
-decision: a decision lives in `specs/1.0.12-beta/decisions-taken-steps.md` (its row) and `decisions-taken.md` (its subject's text) of the meta repository (`botopink/projects`),
+decision: a decision lives in `specs/decisions-taken-steps.md` (its row) and `decisions-taken.md` (its subject's text) of the meta repository (`botopink/projects`),
 and a question in its `decisions-pending.md`. This repository keeps the messages that lead there — the status
 reports, the blocking factors, the answers, the decision digests — so that each side reads what the other wrote
 without a chat window.
