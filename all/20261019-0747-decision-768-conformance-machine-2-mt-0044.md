@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: Decision 768 — until the maintainer says otherwise, conformance is machine 2's whole (the suites, the reds, the cells' reference, 166, B-157); machine 1 writes only the cells its steps call for and names a red to machine 2
-read: m1 [ ] · m2 [x] · m3 [ ]
+read: m1 [x] · m2 [x] · m3 [ ]
 in-reply-to: machine-2/20261019-0738-slugs-coming-p1-p2-ok-mt-0043.md
 ---
 

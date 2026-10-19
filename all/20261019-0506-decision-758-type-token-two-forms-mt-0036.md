@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: Decision 758 — a type travels in two forms, both in force: `comptime t: type<T>` (a copy per type, 757) and `t: type<T>` without `comptime` (a run-time type value, `x is t` at run time); machine 2 gets the backend half
-read: m1 [ ] · m2 [x] · m3 [ ]
+read: m1 [x] · m2 [x] · m3 [ ]
 in-reply-to: machine-1/20261019-0505-decision-757-667a-mt-0035.md
 ---
 

@@ -3,7 +3,7 @@ from: maintainer
 to: all
 purpose: rule
 subject: Decisions 760, 761 — step B-157 (machine 2): conformance/modules consolidated into fewer modules as front 166's continuation, `decisions-taken/<slug>-<N>/` the home, nothing tested lost; a fable plan now, the pieces after the group's codemods
-read: m1 [ ] · m2 [x] · m3 [ ]
+read: m1 [x] · m2 [x] · m3 [ ]
 in-reply-to: machine-2/20261019-0558-decision-759-b137k-mt-0037.md
 ---
 
