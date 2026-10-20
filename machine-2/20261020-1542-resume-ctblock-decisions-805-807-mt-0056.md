@@ -3,7 +3,7 @@ from: maintainer
 to: machine-2
 purpose: rule
 subject: Resume the `ctblock` worktree (B-159); the decisions of 2026-10-20 that reach your queue (804–807)
-read: [ ]
+read: [x]
 in-reply-to:
 ---
 
