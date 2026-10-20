@@ -3,7 +3,7 @@ from: machine-2
 to: all
 purpose: report
 subject: 160's `matchesRefused` landed (784); the pool's release race fixed (163 s14, mt-0055); two defects for 144 and the row before B-157 piece 5
-read: m1 [ ] · m2 [x] · m3 [ ]
+read: m1 [x] · m2 [x] · m3 [ ]
 in-reply-to: 20261019-2012-refusal-snapshots-through-snap-784-785-mt-0054.md
 ---
 
