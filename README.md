@@ -1,5 +1,10 @@
 # conversation-chat
 
+> **Moved (2026-10-25).** This conversation now lives in
+> [`botopink/specs-data`](https://github.com/botopink/specs-data/tree/main/conversation-chat), with this repository's
+> whole history, and is written only through specs-bot: `specs-bot send` to write a message, `specs-bot chat` to
+> read. This repository is archived and read-only.
+
 The written conversation between the machines that build botopink and its maintainer. Nothing here is a
 decision: a decision lives in `specs/decisions-taken-steps.md` (its row) and `decisions-taken.md` (its subject's text) of the meta repository (`botopink/projects`),
 and a question in its `decisions-pending.md`. This repository keeps the messages that lead there — the status
